@@ -1,0 +1,17 @@
+TY  - JOUR
+JO  - Survival: Global Politics and Strategy
+PB  - Routledge
+AU  - Burrows, Mathew
+AU  - Treverton, Gregory F.
+TI  - A Strategic View of Energy Futures
+SN  - 0039-6338
+PY  - 2007
+VL  - 49
+IS  - 3
+SP  - 79
+EP  - 90
+AB  - 
+UR  - http://www.informaworld.com/10.1080/00396330701564703
+ER  -
+    
+    

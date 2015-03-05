@@ -1,0 +1,19 @@
+﻿Provider: John Wiley & Sons, Ltd
+Content:text/plain; charset="UTF-8"
+
+TY  - JOUR
+AU  - Bellamy, Richard
+AU  - Castiglione, Dario
+TI  - Democracy by Delegation? Who Represents Whom and How in European Governance
+JO  - Government and Opposition
+VL  - 46
+IS  - 1
+PB  - Blackwell Publishing Ltd
+SN  - 1477-7053
+UR  - http://dx.doi.org/10.1111/j.1477-7053.2010.01332.x
+DO  - 10.1111/j.1477-7053.2010.01332.x
+SP  - 101
+EP  - 125
+PY  - 2011
+AB  - Abstract The democratic legitimacy of European governance is often said to rest on its ‘output’. However, such arguments also make the implicit ‘input’ claim that the community method and new modes of governance offer a more participatory and deliberative style of democratic politics to standard democratic processes, which is best suited to represent the European interest. We test such claims by analysing them from three different perspectives: functional, societal and delegatory. We conclude that they are grounded on a substantive conception of representation in which the agents of European governance ‘stand’ or ‘act’ for the European public. However, such claims are empty without formal democratic processes of authorization and accountability that ensure European governance effectively promotes the democratic values of political equality and responsiveness.
+ER  -

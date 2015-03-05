@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.11.30)  27 FEB 2015 13:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.11.30)  5 MAR 2015 14:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2730,13 +2730,13 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 1118.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1123.
+(babel)             in language  on input line 1121.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1123.
+(babel)             in language  on input line 1121.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1123.
+(babel)             in language  on input line 1121.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1123.
+(babel)             in language  on input line 1121.
  [108]
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 1129.
@@ -2748,13 +2748,13 @@ Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 1129.
  [109]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1134.
+(babel)             in language  on input line 1132.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1134.
+(babel)             in language  on input line 1132.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1134.
+(babel)             in language  on input line 1132.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1134.
+(babel)             in language  on input line 1132.
  [110]
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 1153.
@@ -2916,10 +2916,10 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 1472.
  [125]
-Overfull \hbox (4.67578pt too wide) in paragraph at lines 1490--1491
+Overfull \hbox (5.63066pt too wide) in paragraph at lines 1490--1491
 \T1/lmss/m/n/9 (-20) on-li-ne im In-ter-net: [][]  $h t tp : [] []  w w w . e n
  e r g y m a r k e t p r i c e . c o m []  ? 1 4 2 1 6$[][] -- Zu-griff: 10.04.
-2014 
+2014. 
  []
 
 Package babel Info: Redefining ngerman shorthand "|
@@ -3248,15 +3248,15 @@ ot changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 2324.
  ) 
 Here is how much of TeX's memory you used:
- 36494 strings out of 494336
- 804888 string characters out of 6163213
+ 36499 strings out of 494336
+ 804969 string characters out of 6163213
  1044641 words of memory out of 5000000
- 37750 multiletter control sequences out of 15000+600000
- 172751 words of font info for 551 fonts, out of 8000000 for 9000
+ 37754 multiletter control sequences out of 15000+600000
+ 178326 words of font info for 553 fonts, out of 8000000 for 9000
  372 hyphenation exceptions out of 8191
  64i,12n,82p,2523b,886s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texmf-dist/fon
-ts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}<
+{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf-dist/fo
+nts/enc/dvips/base/8r.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}<
 /usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/t
 ype1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/ma
@@ -3265,20 +3265,21 @@ r/share/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/share/texmf-dist/font
 s/type1/public/lm/lmss8.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmss9.
 pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmssbo10.pfb></usr/share/texmf
 -dist/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texmf-dist/fonts/type1/pub
-lic/lm/lmsso10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsso9.pfb></us
-r/share/texmf-dist/fonts/type1/public/lm/lmtt8.pfb></usr/share/texmf-dist/fonts
-/type1/public/marvosym/marvosym.pfb></usr/share/texmf-dist/fonts/type1/public/a
-msfonts/symbols/msam10.pfb></usr/share/texmf-dist/fonts/type1/urw/palatino/uplb
-8a.pfb></usr/share/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/t
-exmf-dist/fonts/type1/urw/palatino/uplbi8a.pfb></usr/share/texmf-dist/fonts/typ
-e1/urw/palatino/uplr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/palatino/uplr
-8a.pfb></usr/share/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb></usr/share/
-texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on Diplomarbeit_Pascal-Bernhard_ENDE.pdf (156 pages, 1124211 byt
+lic/lm/lmsso10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsso8.pfb></us
+r/share/texmf-dist/fonts/type1/public/lm/lmsso9.pfb></usr/share/texmf-dist/font
+s/type1/public/lm/lmtt8.pfb></usr/share/texmf-dist/fonts/type1/public/marvosym/
+marvosym.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.
+pfb></usr/share/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/texm
+f-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/texmf-dist/fonts/type1/u
+rw/palatino/uplbi8a.pfb></usr/share/texmf-dist/fonts/type1/urw/palatino/uplr8a.
+pfb></usr/share/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/texm
+f-dist/fonts/type1/urw/palatino/uplri8a.pfb></usr/share/texmf-dist/fonts/type1/
+urw/zapfding/uzdr.pfb>
+Output written on Diplomarbeit_Pascal-Bernhard_ENDE.pdf (156 pages, 1144134 byt
 es).
 PDF statistics:
- 2222 PDF objects out of 2487 (max. 8388607)
- 2001 compressed objects within 21 object streams
+ 2226 PDF objects out of 2487 (max. 8388607)
+ 2004 compressed objects within 21 object streams
  688 named destinations out of 1000 (max. 500000)
- 85502 words of extra memory for PDF output out of 89155 (max. 10000000)
+ 86526 words of extra memory for PDF output out of 89155 (max. 10000000)
 

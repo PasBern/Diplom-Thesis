@@ -1,0 +1,21 @@
+﻿Provider: John Wiley & Sons, Ltd
+Content:text/plain; charset="UTF-8"
+
+TY  - JOUR
+AU  - JAHN, DETLEF
+AU  - KUITTO, KATI
+TI  - Taking stock of policy performance in Central and Eastern Europe: Policy outcomes between policy reform, transitional pressure and international influence
+JO  - European Journal of Political Research
+PB  - Blackwell Publishing Ltd
+SN  - 1475-6765
+UR  - http://dx.doi.org/10.1111/j.1475-6765.2010.01981.x
+DO  - 10.1111/j.1475-6765.2010.01981.x
+SP  - no
+EP  - no
+KW  - policy performance
+KW  - Central and Eastern Europe
+KW  - policy reforms
+KW  - post-communist transitions
+PY  - 2010
+AB  - Abstract Despite the ever growing body of scholarly work on policy developments in the post-communist New Member States of the European Union (NMS), systematic comparisons of policy outcome performance and its determinants are still scarce. This article identifies patterns of post-communist policy outcomes across the fields of economic, social and environmental policy. By employing pooled time-series cross-sectional analysis with a Fixed Effects Vector Decomposition (FEVD) estimator it investigates to what extent policy outcome performance is determined by differing policy efforts (outputs or reform tracks), transitional conditions and international influences. Although citizens are still negatively affected by the initial economic recession, especially in the social domain, policy reforms and efforts are decisive in determining the outcome performance of the NMS relative to one another in the longer run. Successful and comprehensive market reforms and steering capabilities prove to be particularly important in this regard. Furthermore, internationalisation has an important, albeit ambiguous, impact. While exposure to the world market is reflected in negative policy performance, interaction with and financial commitment from Western European Union countries promote positive policy outcomes.
+ER  -

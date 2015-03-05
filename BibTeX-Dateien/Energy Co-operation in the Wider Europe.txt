@@ -1,0 +1,16 @@
+﻿Provider: John Wiley & Sons, Ltd
+Content:text/plain; charset="UTF-8"
+
+TY  - JOUR
+AU  - PADGETT, STEPHEN
+TI  - Energy Co-operation in the Wider Europe: Institutionalizing Interdependence
+JO  - JCMS: Journal of Common Market Studies
+PB  - Blackwell Publishing Ltd
+SN  - 1468-5965
+UR  - http://dx.doi.org/10.1111/j.1468-5965.2010.02168.x
+DO  - 10.1111/j.1468-5965.2010.02168.x
+SP  - no
+EP  - no
+PY  - 2011
+AB  - Abstract The EU's response to concerns about energy security is to diversify sources of supply and delivery routes. To this end it seeks to engage potential energy partners across the wider Europe in an institutionalized regime based on the norms of the internal market. This article uses regime theory to evaluate the viability of the strategy. From this perspective, the willingness of the EU's partners to make commitments to institutionalized co-operation will depend on two sets of variables: their interests in resolving the co-operation problems that arise across the energy supply chain; and the ‘pull’ of the EU in relation to countervailing hegemonic powers in the region. The research tests this argument by examining the co-operation interests of energy consumers, transit countries and producers, and the architecture of emerging institutions in the respective regional contexts. It finds that while energy consumers and transit countries in the EU's immediate neighbourhood are prepared to commit to binding multilateral institutions, co-operation with energy producers is constrained by asymmetries of interest and regional geopolitics, and is likely to take the form of more flexible bilateral agreements.
+ER  -

@@ -1,0 +1,16 @@
+TY  - JOUR
+JO  - Journal of Contemporary European Studies
+PB  - Routledge
+AU  - Wood, Steve
+TI  - Europe's Energy Politics
+SN  - 1478-2804
+PY  - 2010
+VL  - 18
+IS  - 3
+SP  - 307
+EP  - 322
+AB  - A cluster of interconnected energy-related challenges confronts the European Union (EU), individual member states, and their populations. GHG emissions, economic–industrial restructuring, rising costs, developing and implementing new technologies, and external dependency, are prominent. Existential imperatives and political constraints imposed by energy needs have affected environmental and foreign policy ambitions. Some EU states are compelled to renew their nuclear industries.
+UR  - http://www.informaworld.com/10.1080/14782804.2010.507916
+ER  -
+    
+    

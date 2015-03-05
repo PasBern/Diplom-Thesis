@@ -1,0 +1,28 @@
+﻿Provider: John Wiley & Sons, Ltd
+Content:text/plain; charset="UTF-8"
+
+TY  - JOUR
+AU  - Cherp, Aleh
+AU  - Jewell, Jessica
+AU  - Goldthau, Andreas
+TI  - Governing Global Energy: Systems, Transitions, Complexity
+JO  - Global Policy
+VL  - 2
+IS  - 1
+PB  - Blackwell Publishing Ltd
+SN  - 1758-5899
+UR  - http://dx.doi.org/10.1111/j.1758-5899.2010.00059.x
+DO  - 10.1111/j.1758-5899.2010.00059.x
+SP  - 75
+EP  - 88
+PY  - 2011
+AB  - 
+Abstract
+Global energy systems face multiple interconnected challenges which need to be addressed urgently and simultaneously, thus requiring unprecedented energy transitions. This article addresses the implications of such transitions for global energy governance. It departs from the reductionist approach where governance institutions and mechanisms are analysed in isolation from each other. Instead, the authors consider governance systems as complex and historically rooted ‘arenas’ coevolving with the energy issues they address. We argue that effective global energy governance requires striking a tenuous balance between the determination and efficiency needed to drive energy transitions with the flexibility and innovation necessary to deal with complexity and uncertainty. The article reviews three distinct and relatively autonomous global energy governance arenas: energy security, energy access and climate change. It argues that governance in each of these arenas can be enhanced through strengthening its linkages with the other two arenas. While widely shared and supported global energy goals are necessary and desirable, there is no case for a ‘global energy government’ as a single institution or regime. The current complexity of global energy governance is thus an opportunity to establish a polycentric governance system with various parts fostering complementary approaches necessary for addressing the highly interlinked energy challenges. 
+Policy Implications
+
+* • The three global energy challenges – providing access to modern forms of energy to all people, ensuring energy security for every nation and minimising the effects of energy systems on the climate should be resolved urgently and simultaneously. This requires an unprecedented transformation of national energy systems guided by internationally shared energy goals focused on these challenges.
+* • On the one hand, global energy governance aimed at addressing these challenges should command long-term commitment, determination, focus and resources with a high level of integration of energy policies across scales of governance, supply and demand sides of energy systems, and energy technologies.
+* • On the other hand, the complexity of energy challenges calls for wide involvement of different actors as well as flexibility, innovation, openness and diversity. Nations, energy industries and communities will need to find unique solutions that work for them. No panaceas, either technological or institutional, are likely to succeed.
+* • This combination of determination and flexibility required from global energy governance cannot be achieved within a single agency or regime but rather requires a polycentric governance system. The seeds of such a system already exist in three global energy governance arenas focused on energy security, energy access and climate change. A successful reform will need to transform these arenas by providing stronger interlinkages while preserving the unique and important characteristics of each of them.
+ER  -

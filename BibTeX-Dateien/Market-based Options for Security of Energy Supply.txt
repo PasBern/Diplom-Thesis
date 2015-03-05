@@ -1,0 +1,268 @@
+
+
+
+
+
+	
+		
+			
+			
+			
+			
+		
+	
+
+
+
+
+
+
+
+
+	
+
+	
+		
+		
+		
+		
+		
+		
+	
+
+
+
+
+
+	
+	<html>
+		<head>
+			<title>Reference Export</title>
+			<link href="http://hq.ssrn.com/css/style.css" type="text/css" rel="stylesheet" />
+			<link href="css/sol3.css" type="text/css" rel="stylesheet" /> 
+			</head>
+		
+		<body text="#000000" bgcolor="#ffffff" leftmargin="0" topmargin="0" marginheight="0" marginwidth="0">
+			
+			
+				
+				
+				
+				<script language="JavaScript">
+					function refresh ()
+					{
+						
+						location.href= "RefExport.cfm?abstract_id=593824&format=" + document.frmMain.cboFormat.value;
+						
+					}
+					
+					function tryNow ()
+					{
+						document.frmMain2.submit();
+						//location.href.reload();
+					}
+				</script>
+				
+				
+				
+				
+				
+				
+					<table height="95%" cellspacing=0 cellpadding=0 width="100%" border=0>
+						<tbody>
+							<tr>
+								<td valign=top>
+									<!-- HEADER: BEGIN  -->
+									<!-- BEGINNING OF HEADER  -->
+
+      <table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td background="header/fondo_encabezado.jpg"><img src="header/logo_social.jpg" width="133" height="51"><img src="header/social.jpg" width="420" height="51"></td>
+        </tr>
+      </table>
+
+<!-- END OF HEADER  -->
+
+									<!-- HEADER: END -->
+
+									
+									
+									
+									
+										
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+										
+											
+											
+											
+											
+											
+													
+												
+											
+												
+											
+											
+											
+											
+											
+											
+											
+											
+												
+												
+												
+												
+												
+											
+												
+												
+												
+												
+												
+											
+												
+												
+												
+												
+												
+											
+												
+												
+												
+												
+												
+											
+												
+												
+												
+												
+												
+											
+												
+												
+												
+												
+												
+											
+												
+												
+												
+												
+												
+											
+												
+												
+												
+												
+												
+											
+												
+												
+												
+												
+												
+											
+											
+													
+												
+											
+											
+											
+											
+												
+											
+											
+											
+											
+											
+												
+													
+												
+												
+											
+											
+											
+											
+											
+											
+											
+											
+											
+												
+											
+											
+											
+											
+											
+											
+											
+												
+											
+											
+											
+											
+											
+												
+											
+										
+									
+
+
+	
+									
+										
+											
+										<form name="frmMain2" action="RefExport.cfm?abstract_id=593824&function=download&format=2" method="post">
+										<input type="Hidden" name="hdnContent" value="@article{ 
+  type={Working Paper Series},
+  title={{Market-based Options for Security of Energy Supply}},
+  author={Egenhofer, Christian  and Gialoglou, Kyriakos  and Luciani, Giacomo  and Boots , Maroeska   and Scheepers , Martin   and Costantini, Valeria   and Gracceva, Francesco   and Markandya, Anil  and Vicini, Giorgio  },
+  journal={SSRN eLibrary},
+  year={2004},
+  publisher={SSRN},
+  keywords={Energy supply, Market-based options},
+  location={http://ssrn.com/paper=593824},
+  language={English}
+}">
+										<p align="center" class="subtitle">
+										Downloading Reference File for:<br>
+										<br>
+										"<em>Market-based Options for Security of Energy Supply</em>"<br>
+										<br>
+										<font style="font-weight:normal;">Download should start shortly. Otherwise, click <a href="#" onClick="tryNow();">here</a>.</font><br>
+										<br><br>
+										<a href="Papers.cfm?abstract_id=593824">Back to "Market-based Options for Security of Energy Supply" page</a>
+										</p>
+										</form>
+										<script language="JavaScript">
+											setTimeout("document.frmMain2.submit()",1000);
+										</script>
+										
+									
+								</td>
+							</tr>
+						</tbody>
+					</table>
+				
+			
+		</body>
+	</html>
+
+		

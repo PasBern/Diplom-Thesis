@@ -1,0 +1,220 @@
+
+
+
+
+
+	
+		
+			
+			
+			
+			
+		
+	
+
+
+
+
+
+
+
+
+	
+
+	
+		
+		
+		
+		
+		
+		
+	
+
+
+
+
+
+	
+	<html>
+		<head>
+			<title>Reference Export</title>
+			<link href="http://hq.ssrn.com/css/style.css" type="text/css" rel="stylesheet" />
+			<link href="css/sol3.css" type="text/css" rel="stylesheet" /> 
+			</head>
+		
+		<body text="#000000" bgcolor="#ffffff" leftmargin="0" topmargin="0" marginheight="0" marginwidth="0">
+			
+			
+				
+				
+				
+				<script language="JavaScript">
+					function refresh ()
+					{
+						
+						location.href= "RefExport.cfm?abstract_id=1719596&format=" + document.frmMain.cboFormat.value;
+						
+					}
+					
+					function tryNow ()
+					{
+						document.frmMain2.submit();
+						//location.href.reload();
+					}
+				</script>
+				
+				
+				
+				
+				
+				
+					<table height="95%" cellspacing=0 cellpadding=0 width="100%" border=0>
+						<tbody>
+							<tr>
+								<td valign=top>
+									<!-- HEADER: BEGIN  -->
+									<!-- BEGINNING OF HEADER  -->
+
+      <table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td background="header/fondo_encabezado.jpg"><img src="header/logo_social.jpg" width="133" height="51"><img src="header/social.jpg" width="420" height="51"></td>
+        </tr>
+      </table>
+
+<!-- END OF HEADER  -->
+
+									<!-- HEADER: END -->
+
+									
+									
+									
+									
+										
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+										
+											
+											
+											
+											
+											
+													
+												
+											
+												
+											
+											
+											
+											
+											
+											
+											
+											
+												
+												
+												
+												
+												
+											
+											
+													
+												
+											
+											
+											
+											
+												
+											
+											
+											
+											
+											
+												
+													
+												
+												
+											
+											
+											
+											
+											
+											
+											
+											
+											
+												
+											
+											
+											
+											
+											
+											
+											
+												
+											
+											
+											
+											
+											
+												
+											
+										
+									
+
+
+	
+									
+										
+											
+										<form name="frmMain2" action="RefExport.cfm?abstract_id=1719596&function=download&format=2" method="post">
+										<input type="Hidden" name="hdnContent" value="@article{ 
+  type={Accepted Paper Series},
+  title={{Security of Europe’s Gas Supply: EU Vulnerability}},
+  author={Macintosh, Andrew  },
+  journal={CEPS Policy Brief No. 222},
+  year={2010},
+  publisher={SSRN},
+  keywords={European Union, vulnerability, natural gas, natural gas supply, security, risks, energy, economic, economic implications, optimisation, EU, investment, strategies,  insecurity, managment, side managment},
+  location={http://ssrn.com/paper=1719596},
+  language={English}
+}">
+										<p align="center" class="subtitle">
+										Downloading Reference File for:<br>
+										<br>
+										"<em>Security of Europe’s Gas Supply: EU Vulnerability</em>"<br>
+										<br>
+										<font style="font-weight:normal;">Download should start shortly. Otherwise, click <a href="#" onClick="tryNow();">here</a>.</font><br>
+										<br><br>
+										<a href="Papers.cfm?abstract_id=1719596">Back to "Security of Europe’s Gas Supply: EU Vulnerability" page</a>
+										</p>
+										</form>
+										<script language="JavaScript">
+											setTimeout("document.frmMain2.submit()",1000);
+										</script>
+										
+									
+								</td>
+							</tr>
+						</tbody>
+					</table>
+				
+			
+		</body>
+	</html>
+
+		
